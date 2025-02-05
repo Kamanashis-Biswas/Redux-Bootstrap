@@ -1,7 +1,7 @@
+import { AddTaskModal } from "@/components/module/tasks/AddTaskModal";
+import TaskCard from "@/components/module/tasks/TaskCard";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+
 export default function Users() {
-  return (
-    <div>
-      <h1>This is Users Component</h1>
-    </div>
-  );
+  return <h1>User</h1>;
 }
